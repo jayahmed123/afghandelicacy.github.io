@@ -12,7 +12,7 @@ p{
 .bgimg {
   background-repeat: no-repeat;
  background-size: cover; 
-  background-image: url("/img/logo.jpg");
+  background-image: url("https://i.postimg.cc/t44nqQTS/scene1.jpg");
   min-height: 90%;
 }
 
